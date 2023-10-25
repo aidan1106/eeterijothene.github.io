@@ -1,0 +1,19 @@
+body
+{
+background-color: black;
+
+    background-repeat: no-repeat;
+
+	background-size: cover;
+  }
+
+  .header {
+    color: white;
+    text-align: center;
+  }
+  
+  .tekst {
+    color: white;
+    text-align: center;
+    margin-top: 150px;
+  }
