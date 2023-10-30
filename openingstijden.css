@@ -19,4 +19,14 @@ background-color: black;
     margin-top: 70px;
   }
 
-  
+  #image-container {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+
+
+.rechts-bovenhoek {
+    width: 200px;
+    height: auto;
+}

@@ -17,3 +17,16 @@ background-color: black;
     text-align: center;
     margin-top: 200px;
   }
+
+
+  #image-container {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+
+
+.rechts-bovenhoek {
+    width: 200px;
+    height: auto;
+}
