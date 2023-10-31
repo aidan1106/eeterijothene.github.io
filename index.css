@@ -11,11 +11,12 @@ background-color: black;
     color: white;
     text-align: center;
   }
+  
 
-  .tekst {
+  .openingstijden {
     color: white;
-    text-align: center;
-    margin-top: 200px;
+    text-align: center; 
+    margin-top: 70px;
   }
 
   #image-container {
@@ -29,3 +30,14 @@ background-color: black;
     width: 200px;
     height: auto;
 }
+
+.tekst {
+  color: white;
+  text-align: center;
+  margin-top: 200px;
+}
+
+.tekstfriet {
+  color: white;
+  text-align: center;
+  margin-top: 100px;}
