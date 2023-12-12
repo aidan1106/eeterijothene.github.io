@@ -40,4 +40,8 @@ background-color: black;
 .tekstfriet {
   color: white;
   text-align: center;
-  margin-top: 100px;}
+  margin-top: 50px;}
+
+  .bold-text {
+    font-weight: bold;
+}
