@@ -38,10 +38,26 @@ background-color: black;
 }
 
 .tekstfriet {
-  color: white;
+  color: black;
   text-align: center;
   margin-top: 50px;}
 
   .bold-text {
     font-weight: bold;
+}
+
+
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.achtergrondFriet {
+  background-image: url('https://www.rtlnieuws.nl/sites/default/files/content/images/2016/08/09/iStock_5353464_MEDIUM.jpg?itok=QRav6y43&width=2048&height=1152&impolicy=semi_dynamic');
+
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  height: 100%;
 }
