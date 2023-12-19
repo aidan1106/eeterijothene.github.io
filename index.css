@@ -60,4 +60,9 @@ html, body {
   background-size: cover;
   background-attachment: fixed;
   height: 100%;
+
+  .headerfriet {
+    color: black;
+    text-align: center;
+  }
 }
